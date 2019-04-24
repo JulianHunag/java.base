@@ -1,4 +1,4 @@
-package list;
+package collections.list;
 
 public class DoubleLink<T> {
   // 表头

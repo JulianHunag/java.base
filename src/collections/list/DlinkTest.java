@@ -1,4 +1,4 @@
-package list;
+package collections.list;
 
 public class DlinkTest {
   // 双向链表操作int数据
